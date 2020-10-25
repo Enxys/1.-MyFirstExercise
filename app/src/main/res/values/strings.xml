@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">1. MyFirstExercise</string>
+    <string name="biodata_mahasiswa">biodata mahasiswa</string>
+    <string name="nim_3_34_19_1_18">NIM : 3.34.19.1.18</string>
+    <string name="ttl_semarang_19_oktober_2001">TTL : Semarang,19 Oktober 2001</string>
+    <string name="prodi_d3_teknik_informatika">Prodi : D3-Teknik Informatika</string>
+    <string name="cita_cita_grafis_desainer">Cita-cita : Grafis Desainer</string>
+    <string name="wkwkkwkwkwk">Nama_:_Rafli_Bayu_Nurfajri</string>
+    <string name="nama_rafli_bayu_nurfajri">Nama : Rafli Bayu Nurfajri</string>
+</resources>
